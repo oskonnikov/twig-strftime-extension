@@ -1,17 +1,17 @@
 {
-  "name": "teraone/twig-strftime-extension",
+  "name": "anders/twig-strftime-extension",
   "description": "use strftime function in  twig",
   "license": "MIT",
   "authors": [
     {
-      "name": "Stefan Gotre",
-      "email": "gotre@teraone.de",
-      "homepage": "https://teraone.de",
+      "name": "Oleg Skonnikov",
+      "email": "oskonnikov@expert-spb.com",
+      "homepage": "http://www.expert-spb.com",
       "role": "Developer"
     }
   ],
   "autoload": {
-    "psr-0": {"Teraone\\Twig": "lib/"}
+    "psr-0": {"Anders\\Twig": "lib/"}
   },
   "require": {
     "twig/twig": "1.*"
