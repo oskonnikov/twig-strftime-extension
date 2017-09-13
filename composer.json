@@ -11,7 +11,7 @@
     }
   ],
   "autoload": {
-    "psr-0": {"Anders\\Twig": "lib/"}
+    "psr-0": {"Teraone\\Twig": "lib/"}
   },
   "require": {
     "twig/twig": "1.*"
